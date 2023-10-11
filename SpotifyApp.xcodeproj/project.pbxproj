@@ -32,6 +32,7 @@
 		91F290052AD632780015DEF9 /* AudioTrack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F290042AD632780015DEF9 /* AudioTrack.swift */; };
 		91F290072AD632B80015DEF9 /* Artist.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F290062AD632B70015DEF9 /* Artist.swift */; };
 		91F290092AD632DC0015DEF9 /* UserProfile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F290082AD632DC0015DEF9 /* UserProfile.swift */; };
+		91F2900B2AD655660015DEF9 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91F2900A2AD655660015DEF9 /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +82,7 @@
 		91F290042AD632780015DEF9 /* AudioTrack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AudioTrack.swift; sourceTree = "<group>"; };
 		91F290062AD632B70015DEF9 /* Artist.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Artist.swift; sourceTree = "<group>"; };
 		91F290082AD632DC0015DEF9 /* UserProfile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserProfile.swift; sourceTree = "<group>"; };
+		91F2900A2AD655660015DEF9 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,6 +212,7 @@
 				91BE60542AD5F51200D802BE /* Assets.xcassets */,
 				91BE604D2AD5F51000D802BE /* SceneDelegate.swift */,
 				91BE604B2AD5F51000D802BE /* AppDelegate.swift */,
+				91F2900A2AD655660015DEF9 /* Extension.swift */,
 			);
 			path = Resources;
 			sourceTree = "<group>";
@@ -378,6 +381,7 @@
 				91BE60822AD5FBA100D802BE /* TabBarViewController.swift in Sources */,
 				91BE609C2AD5FDBC00D802BE /* HapticsManager.swift in Sources */,
 				91F290052AD632780015DEF9 /* AudioTrack.swift in Sources */,
+				91F2900B2AD655660015DEF9 /* Extension.swift in Sources */,
 				91BE60502AD5F51000D802BE /* HomeViewController.swift in Sources */,
 				91BE608A2AD5FC9C00D802BE /* AuthViewController.swift in Sources */,
 				91BE608E2AD5FCE700D802BE /* SettingViewController.swift in Sources */,
